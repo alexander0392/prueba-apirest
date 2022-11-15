@@ -19,7 +19,7 @@ public class User {
 	private boolean active;
 	
 	public User() {
-		
+		System.out.println("Welcome");
 	}
 
 	public Integer getId() {
